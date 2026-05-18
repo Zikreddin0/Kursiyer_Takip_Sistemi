@@ -8,7 +8,7 @@ namespace Kursiyer_Takip_Sistemi
     public partial class Form1 : Form
     {
         // SQL Server Express bağlantı adresimiz
-        string baglantiAdresi = @"Data Source=DESKTOP-43FCON2;Initial Catalog=KursiyerTakipSistemi;Integrated Security=True;TrustServerCertificate=True";
+        string baglantiAdresi = @"Data Source=.;Initial Catalog=KursiyerTakipSistemi;Integrated Security=True;TrustServerCertificate=True";
 
         public Form1()
         {
