@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Kursiyer_Takip_Sistemi\Kursiyer_Takip_Sistemi\bin\Debug\Kursiyer_Takip_Sistemi.exe.config
+C:\Users\Lenovo\source\repos\Kursiyer_Takip_Sistemi\Kursiyer_Takip_Sistemi\bin\Debug\Kursiyer_Takip_Sistemi.exe
+C:\Users\Lenovo\source\repos\Kursiyer_Takip_Sistemi\Kursiyer_Takip_Sistemi\bin\Debug\Kursiyer_Takip_Sistemi.pdb
+C:\Users\Lenovo\source\repos\Kursiyer_Takip_Sistemi\Kursiyer_Takip_Sistemi\obj\Debug\Kursiyer_Takip_Sistemi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Kursiyer_Takip_Sistemi\Kursiyer_Takip_Sistemi\obj\Debug\Kursiyer_Takip_Sistemi.Form1.resources
+C:\Users\Lenovo\source\repos\Kursiyer_Takip_Sistemi\Kursiyer_Takip_Sistemi\obj\Debug\Kursiyer_Takip_Sistemi.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Kursiyer_Takip_Sistemi\Kursiyer_Takip_Sistemi\obj\Debug\Kursiyer_Takip_Sistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Kursiyer_Takip_Sistemi\Kursiyer_Takip_Sistemi\obj\Debug\Kursiyer_Takip_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Kursiyer_Takip_Sistemi\Kursiyer_Takip_Sistemi\obj\Debug\Kursiyer_Takip_Sistemi.exe
+C:\Users\Lenovo\source\repos\Kursiyer_Takip_Sistemi\Kursiyer_Takip_Sistemi\obj\Debug\Kursiyer_Takip_Sistemi.pdb
+C:\Users\Lenovo\source\repos\Kursiyer_Takip_Sistemi\Kursiyer_Takip_Sistemi\obj\Debug\Kursiyer_Takip_Sistemi.exe.config

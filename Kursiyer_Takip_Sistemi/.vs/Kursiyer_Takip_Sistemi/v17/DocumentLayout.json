@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Kursiyer_Takip_Sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F60E7985-DAFC-4383-9D05-59FE219DF224}|Kursiyer_Takip_Sistemi\\Kursiyer_Takip_Sistemi.csproj|c:\\users\\lenovo\\source\\repos\\kursiyer_takip_sistemi\\kursiyer_takip_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F60E7985-DAFC-4383-9D05-59FE219DF224}|Kursiyer_Takip_Sistemi\\Kursiyer_Takip_Sistemi.csproj|solutionrelative:kursiyer_takip_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60E7985-DAFC-4383-9D05-59FE219DF224}|Kursiyer_Takip_Sistemi\\Kursiyer_Takip_Sistemi.csproj|C:\\Users\\Lenovo\\source\\repos\\Kursiyer_Takip_Sistemi\\kursiyer_takip_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60E7985-DAFC-4383-9D05-59FE219DF224}|Kursiyer_Takip_Sistemi\\Kursiyer_Takip_Sistemi.csproj|solutionrelative:kursiyer_takip_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Kursiyer_Takip_Sistemi\\Kursiyer_Takip_Sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "Kursiyer_Takip_Sistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Kursiyer_Takip_Sistemi\\Kursiyer_Takip_Sistemi\\Form1.cs",
+              "RelativeToolTip": "Kursiyer_Takip_Sistemi\\Form1.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T09:37:33.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Kursiyer_Takip_Sistemi\\Kursiyer_Takip_Sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "Kursiyer_Takip_Sistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Kursiyer_Takip_Sistemi\\Kursiyer_Takip_Sistemi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kursiyer_Takip_Sistemi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T09:37:30.116Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
